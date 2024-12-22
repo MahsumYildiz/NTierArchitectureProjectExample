@@ -1,5 +1,5 @@
 # NTierArchitectureProjectExample
-##Bir backend projesinde olması gereken önemli teknolojiler ile yaptığım mini e ticaret API'si.
+####Bir backend projesinde olması gereken önemli teknolojiler ile yaptığım mini e ticaret API'si.
 ### Kullanılan teknolojiler
 * Net Core 6 API
 *	MSSQL
